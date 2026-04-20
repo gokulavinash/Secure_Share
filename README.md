@@ -43,7 +43,7 @@ A secure file sharing system that encrypts files before storing and sharing them
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/DDevakiD/major.git
+git clone https://github.com/gokulavinash/Secure_Share.git
 cd SecureShare
 ```
 
@@ -112,7 +112,7 @@ npm run dev
 
 ## 👩‍💻 Author
 
-Devaki Dhanasree
+Gokul Avinash Raj
 
 ---
 
